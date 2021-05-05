@@ -1,6 +1,6 @@
 ### Hello there 👋 I'm [Osman Mamun](https://www.linkedin.com/in/osman-mamun/), passionate about everything machine learning and materials science!
 
-[]( ![Profile views](https://gpvc.arturio.dev/mamunm) )
+<!-- ![Profile views](https://gpvc.arturio.dev/mamunm) -->
 
 - 🧪 I'm currently working as a data scientist in Pacific Northwest National Laboratory.
 - 🌱 I’m currently learning Natural Language Processing, statistical inference, and Bayesian probablity theory.
@@ -9,7 +9,7 @@
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=mamunm)](https://github.com/mamunm)
 
 
-<!---
+<!--
 - 🤔 I’m looking for help with 
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
